@@ -35,7 +35,7 @@ def main():
         print("คุณไม่มีสิทธิ์ลงคะแนน หรือลงคะแนนไปแล้ว")
 
     # ส่วนนี้ไว้รันตอนท้ายหลัง Merge ครบ
-    # counter.show_result()
+    counter.show_result()
 
 
 if __name__ == "__main__":
